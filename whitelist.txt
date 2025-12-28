@@ -1,2 +1,1 @@
-DOMAIN,dl.op.wpscdn.cn
-# DOMAIN,canvas-cdn.gdt.qq.com
+DOMAIN,dl.op.wpscdn.cnDOMAIN,canvas-cdn.gdt.qq.com
